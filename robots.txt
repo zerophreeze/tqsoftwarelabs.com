@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://tqsoftwarelabs.com
+Sitemap: https://tqsoftwarelabs.com/sitemap.xml
